@@ -1,5 +1,5 @@
 //basic_c_code
-//Some_basic_programs
+//WAP to swap two numbers using call by value and call by reference.
 #include <stdio.h>
 void callbyvalue(int a,int b)
 {
