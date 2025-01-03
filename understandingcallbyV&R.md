@@ -22,6 +22,6 @@ int main()
     callbyvalue(x,y);
     printf("value of x=%d and y=%d after call by value function\n",x,y);
     callbyreference(&x,&y);
-    printf("value of x=%d and y=%d after call by refernce function\n",x,y);
+    printf("value of x=%d and y=%d after call by reference function\n",x,y);
     return 0;
 }
